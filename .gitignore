@@ -1,0 +1,12 @@
+cursor_note.md
+
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.env
+.env.*
+*.pem
+credentials.json
